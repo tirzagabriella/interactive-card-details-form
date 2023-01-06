@@ -1,4 +1,4 @@
-# Quiz Challage - News homepage
+# Quiz Challage - Interactive card detail page
 
 ![Design preview for the Interactive card details form coding challenge](./design/desktop-preview.jpg)
 
