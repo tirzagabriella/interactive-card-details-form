@@ -1,6 +1,6 @@
-# Quiz 2 - News homepage solution
+# Quiz 2 - Interactive card detail solution
 
-This is a solution to the [News homepage Quiz 2 challenge]
+This is a solution to the [Interactive card detail page Quiz 2 challenge]
 
 ## Table of contents
 
